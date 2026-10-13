@@ -44,6 +44,18 @@ paper-group-meeting-slides/
 使用 $paper-group-meeting-slides 根据这篇论文制作四部分结构的组会汇报 PPT。
 ```
 
+## Research connection module
+
+The skill maps every paper to a configured research profile covering:
+
+- world models for speech and audio;
+- AVSE, AVSS, and audio-visual perception;
+- embodied auditory AI, spatial hearing, and sound source localization;
+- Mamba/SSM, causal sequence modeling, and microphone-array processing;
+- data curation, simulation, metrics, and reproducible evaluation.
+
+Each paper output must state direct relevance, transferable mechanism, one concrete experiment, and one limitation or non-transferable assumption.
+
 ## Notes
 
 - The template contains no institutional logo, personal name, advisor name, or private example paper content.

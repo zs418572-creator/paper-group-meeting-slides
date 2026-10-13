@@ -6,7 +6,7 @@ Use this structure for a paper-reading 组会汇报. A 15-20 minute talk normall
 
 - Paper title in Chinese and English.
 - Presenter name, advisor name, date.
-- Keep the university logo and cover background.
+- Use the generic cover and avoid institutional or personal branding.
 
 ## 2. 汇报结构
 
@@ -76,10 +76,10 @@ Recommended split:
 - Page A: experimental setup, data, models, and comparison arms.
 - Page B: main results and direct comparison.
 - Page C: additional experiments, ablations, scaling, or failure cases.
-- Page D: personal takeaway and future research.
+- Page D: connection to the configured research directions and personal takeaway.
 - Final page: Q&A.
 
-The personal takeaway should answer:
+The research-connection page must state direct relevance, transferable method, one experiment idea, and one limitation. The personal takeaway should answer:
 
 - What did I learn?
 - Which conclusion changes my future experiments?
