@@ -49,3 +49,7 @@ paper-group-meeting-slides/
 - The template contains no institutional logo, personal name, advisor name, or private example paper content.
 - `artifact_tool` is used for deck authoring; `python-pptx` is not used for slide generation.
 - Verify that you have the right to distribute template background assets before publishing this repository.
+
+## License
+
+MIT License. See [LICENSE](LICENSE).
