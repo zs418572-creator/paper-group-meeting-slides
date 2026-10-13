@@ -22,7 +22,7 @@ Keep paper evidence separate from your own interpretation.
 
 ## 3. Build the content outline
 
-Map the paper into the four-part structure in `four-part-structure.md`. Include one research-connection page or block covering direct relevance, transferable mechanism, one concrete experiment, and one non-transferable limitation.
+Map the paper into the four-part structure in `four-part-structure.md`.
 
 Split dense topics:
 
@@ -94,7 +94,6 @@ Check:
 - native tables and charts are editable;
 - embedded chart workbook exists when quantitative charts are required;
 - speaker notes exist;
-- the research-connection module is present and does not force a weak analogy;
 - cover placeholders are intentional.
 
 ## 8. Deliver

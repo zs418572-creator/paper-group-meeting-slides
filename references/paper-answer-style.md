@@ -9,10 +9,10 @@ Use this order flexibly:
 3. Concrete example or numerical calculation.
 4. Mechanism or formula.
 5. Common misconception.
-6. Relation to the configured research direction.
+6. Relation to the audience's field when relevant.
 7. One or two self-check questions.
 
-Keep the explanation connected to world models × speech/audio, AVSE, AVSS, spatial audio, or embodied hearing when relevant.
+Connect the explanation to the audience's field only when the relationship is meaningful.
 
 ## When comparing concepts
 
@@ -49,28 +49,7 @@ Use labels such as:
 
 Never present an inferred optimization reason as a proven mechanism.
 
-## Research connection
 
-Connect concepts to at least one of:
-
-- RIR and room acoustics;
-- audio-visual synchronization;
-- speech separation and enhancement;
-- neural codecs and discrete audio tokens;
-- self-supervised speech representation;
-- world models and temporal prediction;
-- microphone arrays and spatial hearing;
-- embodied auditory perception.
-
-## Research connection requirement
-
-For every paper explanation, include a research-connection block using `references/research-connections.md`.
-
-- Name the connection level.
-- Distinguish direct reuse from transferable ideas.
-- Give at least one concrete experiment or ablation.
-- State at least one limitation or reason the method may not transfer.
-- Do not force a link to the configured research profile when the paper is distant.
 
 ## Tone
 

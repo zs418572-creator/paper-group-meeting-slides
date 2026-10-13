@@ -29,7 +29,7 @@ Include:
 - The exact research question.
 - A one-sentence hypothesis.
 
-For speech/audio papers, connect to world models, AVSE, AVSS, spatial audio, or embodied hearing when relevant.
+When relevant, connect the paper to the audience's field.
 
 ## 4. Part 2 — 主要内容
 
@@ -76,14 +76,14 @@ Recommended split:
 - Page A: experimental setup, data, models, and comparison arms.
 - Page B: main results and direct comparison.
 - Page C: additional experiments, ablations, scaling, or failure cases.
-- Page D: connection to the configured research directions and personal takeaway.
+- Page D: personal takeaway and future research.
 - Final page: Q&A.
 
-The research-connection page must state direct relevance, transferable method, one experiment idea, and one limitation. The personal takeaway should answer:
+The personal takeaway should answer:
 
 - What did I learn?
 - Which conclusion changes my future experiments?
-- How does it connect to AVSE/AVSS or world models?
+- What is its connection to the audience's research field, if any?
 - What evidence is still missing?
 
 ## Speaker-note style

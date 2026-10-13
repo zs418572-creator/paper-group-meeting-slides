@@ -21,8 +21,7 @@ Use this skill when the user asks to:
 - Separate paper evidence from reasonable inference.
 - Preserve the user's own takeaway unless it is factually wrong.
 - Before executing a paper, code, or experiment task, perform a brief reasonableness and feasibility check.
-- Connect speech/audio papers to relevant directions such as world models, AVSE, AVSS, spatial audio, self-supervised speech representation, or embodied hearing when appropriate.
-- Every paper discussion or deck must include a research-connection module. State the direct connection, transferable mechanism, one concrete experiment, and what does not transfer. If the connection is weak, say so instead of forcing it.
+- Relate the paper to the audience's field when a meaningful connection exists.
 
 ## Four-part narrative
 
@@ -35,19 +34,6 @@ Use this structure unless the user requests another one:
 
 See `references/four-part-structure.md` for the slide-by-slide map.
 
-## Research connection module
-
-Read `references/research-connections.md` before answering research-relevance questions or creating the final section of a deck.
-
-The module must cover:
-
-1. Direct connection to the configured research directions.
-2. Transferable mechanism or model component.
-3. One concrete experiment or ablation.
-4. Boundary, risk, or non-transferable assumption.
-5. Optional next step.
-
-Use the connection levels `Direct`, `Transferable`, or `Weak`. A weak connection is allowed; a fabricated connection is not.
 
 ## Deck production
 
@@ -85,7 +71,6 @@ Core behavior:
 - `references/ppt-production-workflow.md`
 - `references/template-spec.md`
 - `references/paper-answer-style.md`
-- `references/research-connections.md`
 - `scripts/prepare_template.py`
 - `scripts/reorder_slides.py`
 - `assets/paper-group-meeting-template.pptx`
