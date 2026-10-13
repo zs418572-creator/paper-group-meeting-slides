@@ -1,0 +1,7 @@
+interface:
+  display_name: "论文组会PPT通用版"
+  short_description: "根据论文内容制作四部分结构的组会PPT，支持口播稿和模板复用。"
+  brand_color: "#1F4E78"
+  default_prompt: "使用 $paper-group-meeting-slides 根据论文内容制作四部分结构的组会汇报PPT，并保留口播讲稿。"
+policy:
+  allow_implicit_invocation: true
