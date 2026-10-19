@@ -49,6 +49,17 @@ Use labels such as:
 
 Never present an inferred optimization reason as a proven mechanism.
 
+## When introducing authors or publication context
+
+Use this only when the author team or publication path genuinely helps the audience read the paper.
+
+- Give the first author, senior/corresponding author, and one or two directly relevant affiliations.
+- Name one or two prior works that explain why this team is prepared for the problem.
+- State the verifiable venue/year and publication context; omit unverified review details.
+- Finish with the reading implication, not with praise.
+
+Keep it to 30–60 seconds. Separate “作者/团队背景” from “论文本身的证据”; author reputation never proves the paper's claims.
+
 
 
 ## Tone

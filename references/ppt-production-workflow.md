@@ -16,6 +16,7 @@ Extract:
 - datasets, simulation setup, and comparison arms;
 - metrics and test sets;
 - main results and limitations;
+- author/team/publication context when it materially affects interpretation;
 - relation to the user's research direction.
 
 Keep paper evidence separate from your own interpretation.
@@ -23,6 +24,8 @@ Keep paper evidence separate from your own interpretation.
 ## 3. Build the content outline
 
 Map the paper into the four-part structure in `four-part-structure.md`.
+
+Before fixing the page count, decide whether the optional author/publication-context page is warranted. If yes, guard one slide for it; if no, do not add filler.
 
 Split dense topics:
 

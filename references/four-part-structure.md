@@ -17,6 +17,17 @@ Show four cards:
 3. 方法与评价标准
 4. 实验设计与我的理解
 
+## 2A. Optional — 作者与论文背景
+
+Add one slide only when the author team or publication path helps the audience judge the paper. Read `author-and-publication-context.md`.
+
+- Use the first author, senior/corresponding author, and one or two relevant affiliations.
+- Mention one or two prior works or projects that directly explain the team's preparation for this paper.
+- State the verifiable venue/year, track, preprint/final status, challenge relation, or follow-up work.
+- End with one sentence on what this context implies for reading the method, data, evaluation, or limitations.
+
+Skip this page when the information is only generic prestige or cannot be verified.
+
 ## 3. Part 1 — 研究背景
 
 Use a section divider, then one or two content slides.

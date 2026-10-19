@@ -1,6 +1,6 @@
 ---
 name: paper-group-meeting-slides
-description: Create or revise Chinese paper-reading group-meeting PowerPoint decks with a reusable academic template, four-part narrative, speaker notes, and validated production scripts.
+description: Create or revise Chinese paper-reading group-meeting PowerPoint decks with a reusable academic template, four-part narrative, optional author/publication context, speaker notes, and validated production scripts.
 ---
 
 # Paper Group Meeting Slides
@@ -22,6 +22,7 @@ Use this skill when the user asks to:
 - Preserve the user's own takeaway unless it is factually wrong.
 - Before executing a paper, code, or experiment task, perform a brief reasonableness and feasibility check.
 - Relate the paper to the audience's field when a meaningful connection exists.
+- When the authors, their lab, or the publication path materially helps explain why the paper is credible or how it should be read, add one concise author/publication-context slide. Otherwise skip it.
 
 ## Four-part narrative
 
@@ -33,6 +34,20 @@ Use this structure unless the user requests another one:
 4. 实验设计与我的理解
 
 See `references/four-part-structure.md` for the slide-by-slide map.
+
+## Author and publication context (optional)
+
+Read `references/author-and-publication-context.md` before adding this module.
+
+Add at most one slide when at least one condition holds:
+
+- a first, senior, or corresponding author has directly relevant prior work;
+- the lab or company has a documented track record on the task, data, benchmark, or deployment setting;
+- the venue, challenge track, preprint-to-camera-ready path, oral/poster status, or follow-up work changes how the results should be read.
+
+Do not turn this into a biography or a prestige list. Cover only the team, one or two directly relevant prior works, the verifiable publication context, and its implication for reading the paper. Keep it to 30–60 seconds and put the detailed spoken version in speaker notes.
+
+Author reputation is not evidence. Never let author prestige replace the paper's experiments, and do not invent submission history, reviewer comments, acceptance reasons, or citation counts.
 
 
 ## Deck production
@@ -68,6 +83,7 @@ Core behavior:
 ## Resources
 
 - `references/four-part-structure.md`
+- `references/author-and-publication-context.md`
 - `references/ppt-production-workflow.md`
 - `references/template-spec.md`
 - `references/paper-answer-style.md`
